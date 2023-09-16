@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Currently learning Java, Javascript, Css3, Html5 and other languages.<br>✨ Admin on PhytonMC <br>🎯 I am a developer, pluginner and builder.</p>
+<p align="left">📚 Currently learning Java, Javascript, Css3, Html5 and other languages.<br>✨ Owner on StoryRPG <br>🎯 I am a developer, pluginner and builder.</p>
 
 ###
 
