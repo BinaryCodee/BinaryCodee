@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binarycodee" alt="binarycodee" /></a> </p>
 
-- 🔭 I’m currently working on [StoryRPG](https://discord.gg/KmWDQE9Epg)
+- 🔭 I’m currently working on ElitesMC, zKitPvP & MoonLLC
 
 - 🌱 I’m currently learning **Javascript, Python & Java (SpigotAPI, BungeeAPI & VelocityAPI)**
-
-- 👨‍💻 TBS - EU | Best shop EU [https://discord.gg/EtEU5aP5s2](https://discord.gg/EtEU5aP5s2)
 
 - 🔗 Discord: **BinaryCodee**
 
