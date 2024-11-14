@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binarycodee" alt="binarycodee" /></a> </p>
 
-- 🔭 I’m currently working on SunsetPvP
+- 🔭 I’m currently working on ???
 
 - 🌱 I’m currently learning Blender/BlockBench for 3d Models
 
-- 🔗 Discord: **aggiustatoh**
+- 🔗 Discord: **synthebest**
 
 - 🔗 Telegram: **@binarycodee104**
 <p align="left">
