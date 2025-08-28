@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **LivingPvP**  
 - 🔗 Discord: **iamblacked104**  
-- 🔗 My Server Discord: [Join here](https://discord.gg/BsYQhyv99j)  
+- 🔗 My Server Discord: [[Join here](https://discord.gg/BsYQhyv99j)]
 - 🔗 Telegram: **@blacked10469**  
 
 <p align="left">
