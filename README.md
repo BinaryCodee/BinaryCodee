@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm BinaryCodee</h1>
 <h3 align="center">A simple simple simple developer...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binarycodee&label=Profile%20views&color=0e75b6&style=flat" alt="binarycodee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binarycodee" alt="binarycodee" /></a> </p>
 
-- 🔭 I’m currently working on AtenaMC
+- 🔭 I’m currently working on LivingPvP
 
 - 🔗 Discord: **iamblacked104**
+
+- 🔗 My Server Discord: <p><link align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=binarycodee&show_icons=true&locale=en&layout=compact](https://discord.gg/BsYQhyv99j)" alt="discord" /></p>
 
 - 🔗 Telegram: **@blacked10469**
 <p align="left">
